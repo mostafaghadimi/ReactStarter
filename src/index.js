@@ -15,6 +15,7 @@ export default class App extends Component {
                         سلام
                     </div>
                 )}/>
+                {/*<Route exact path="/sth" component={}/>*/}
             </Switch>
         )
     }
